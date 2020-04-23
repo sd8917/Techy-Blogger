@@ -2,11 +2,13 @@
 
 * A blogging website where a people can create his post and read it .Begginner friendly they can fork and contribute to this repo to learn and grow. 
 
+* Required Skill - Django,HTML,CSS ,Bootstrap only and little bit js is enough.
+
 ## Steps to follow :scroll:
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Techy-Blogger](https://github.com/sd8917/Techy-Blogger) by using the <a href="https://github.com/sd8917/Techy-Blogger/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/sd8917/Techy-Blogger/new/master?readme=1#fork-destination-box).
+You can get your own fork/copy of [Techy-Blogger](https://github.com/sd8917/Techy-Blogger) by using the <a href="https://github.com/sd8917/Techy-Blogger/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/sd8917/Techy-Blogger)
 
